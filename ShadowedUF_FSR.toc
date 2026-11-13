@@ -1,0 +1,9 @@
+## Interface: 16001,120000,120001,120005,120007,120100,120105,120107
+## Title: Shadowed Unit Frames - Five Second Rule
+## Notes: Shows the five second rule (mana regen delay after spending mana) on the Shadowed Unit Frames player power bar.
+## Version: 1.0.0
+## Dependencies: ShadowedUnitFrames
+## Category: Unit Frames
+## Group: ShadowedUnitFrames
+
+ShadowedUF_FSR.lua
